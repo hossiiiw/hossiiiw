@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 about me <br>Welcome to my world of creative domain, I am a Frontend Web Developer doing this thing creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.<br>⚡ Fun fact<br>🤝 Let's connect<br>I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me<br>🌱 I’m currently learning React<br>
+💬 about me <br>Welcome to my world of creative domain, I am a Frontend Web Developer doing this thing creative to make the digital space a more unique and awesome place. I enjoy bringing a static design or idea to life and learning new technologies in the process.<br>🤝 Let's connect<br>I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me<br>🌱 I’m currently learning React<br>
 
 
 ## 🌐 Socials:
